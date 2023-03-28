@@ -7,7 +7,7 @@ This project is based on the paper: Counterfactual Fairness by Kusner, Loftus, R
 
 Team members: Yunhao Chen, Hugo Peltier
 
-Please refer to the notebook for a detailed explanation.
+Please refer to the [notebook](Counterfactual_Fairness.ipynb) for a detailed explanation.
 
 ## Description
 Using the real data of law school success example from the paper, we reproduce our version of four methods mentioned in the paper, including two unfair models as baseline and two proposed fair models.
