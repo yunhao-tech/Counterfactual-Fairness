@@ -1,0 +1,17 @@
+name: Fairness
+channels:
+  - defaults
+  - pytorch
+dependencies:
+  - python==3.9
+  - numpy
+  - pandas
+  - seaborn==0.12.2
+  - matplotlib
+  - tqdm
+  - pytorch
+  - pip
+  - pip:
+    - pyro-ppl
+    - scikit-learn
+    - ipykernel
