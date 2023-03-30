@@ -21,6 +21,8 @@ More precisely, the four models are implemented:
 
 The framework is on `Pyro` which is a probabilistic programming language built on Python and PyTorch.
 
+## Remark:
+The dataset is imbalanced in terms of "race". We have split the train/test set while preserving the data balance. What we could do better, is to weight the loss according to the proportion of each race, trying to penalize more for the overrepresented race class. 
 
 
 
